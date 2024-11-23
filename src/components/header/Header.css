@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: center; /* Kontentni markazlashtirish */
+  align-items: center; /* Vertikal hizalanish */
+  padding: 10px 20px;
+  background-color: #14110E;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar {
+  display: flex; /* Flexbox qo'shildi */
+  align-items: center; /* Elementlarni vertikal hizalash */
+  gap: 15px; /* Elementlar orasidagi masofa */
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+.navbar a.active {
+  color: #f4a261;
+}
+
+.navbar a:hover {
+  color: #f4a261;
+}
+
+.logo{
+  height: 50px; /* Logolarni mos kattalikda ko‘rsatish */
+  width: auto;
+  margin: 0 80px;
+}

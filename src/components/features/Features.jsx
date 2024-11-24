@@ -3,9 +3,9 @@ import "./Features.css";
 
 const Features = () => {
   const features = [
-    { id: 1, title: "Best Coffee Flavour", img: "/src/assets/card1.svg" },
-    { id: 2, title: "Place to get lost", img: "/src/assets/card2.svg" },
-    { id: 3, title: "Proper roasting", img: "/src/assets/card3.svg" },
+    { id: 1, title: "Best Coffee Flavour", img: "/src/assets/Rectangle4(1).png" },
+    { id: 2, title: "Place to get lost", img: "/src/assets/Rectangle4(2).png" },
+    { id: 3, title: "Proper roasting", img: "/src/assets/Rectangle4(3).png" },
   ];
 
   return (

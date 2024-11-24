@@ -12,7 +12,7 @@
 .navbar {
   display: flex; /* Flexbox qo'shildi */
   align-items: center; /* Elementlarni vertikal hizalash */
-  gap: 15px; /* Elementlar orasidagi masofa */
+  gap: 55px; /* Elementlar orasidagi masofa */
 }
 
 .navbar a {

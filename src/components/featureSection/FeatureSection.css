@@ -1,0 +1,61 @@
+.feature-section {
+  background-color: #1c1814; /* Faqat kerakli bo'lim */
+  padding: 50px 0;
+  color: #fff;
+  min-height: 300px; /* Faqat ma'lum bo'yi egallaydi */
+}
+
+body {
+  margin: 0; /* Brauzerning default marginlarini olib tashlash */
+  padding: 0;
+}
+
+
+.feature-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1200px; /* Markazlangan kenglik */
+  margin: 0 auto;
+  gap: 30px;
+}
+
+
+.feature-image {
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+.feature-content {
+  max-width: 600px;
+  text-align: left;
+}
+
+.feature-title {
+  font-size: 32px;
+  color: #f4a261;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.feature-description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  color: #d9d9d9;
+}
+
+.discover-btn {
+  background-color: #f4a261;
+  color: #14110E;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.discover-btn:hover {
+  background-color: #d9833f;
+}

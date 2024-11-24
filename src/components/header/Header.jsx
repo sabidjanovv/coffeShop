@@ -13,12 +13,12 @@ const Header = () => {
           <a href="#about">About</a>
           <a href="#menu">Menu</a>
           <a href="#reservation">Reservation</a>
-          <img className="logo" src="/src/assets/Logo.svg" alt="" />
+          <img className="logo" src="/src/assets/Logo.png" alt="" />
           <a href="#pages">Pages</a>
           <a href="#shop">Shop</a>
           <a href="#contact">Contact</a>
-          <img src="/src/assets/search.svg" alt="Search Logo" />
-          <img src="/src/assets/shopping-bag.svg" alt="Bag" />
+          <img src="/src/assets/search (1).png" alt="Search Logo" />
+          <img src="/src/assets/shopping-bag.png" alt="Bag" />
         </nav>
       </div>
     </header>

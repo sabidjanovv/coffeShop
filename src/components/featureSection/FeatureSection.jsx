@@ -6,7 +6,7 @@ function FeatureSection() {
     <div className="feature-section">
       <div className="feature-container">
         <img
-          src="/src/assets/blender.png"
+          src="/src/assets/blender1.png"
           alt="Coffee Machine"
           className="feature-image"
         />

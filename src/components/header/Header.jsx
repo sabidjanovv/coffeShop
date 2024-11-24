@@ -13,7 +13,7 @@ const Header = () => {
           <a href="#about">About</a>
           <a href="#menu">Menu</a>
           <a href="#reservation">Reservation</a>
-          <img className="logo" src="/src/assets/Logo.png" alt="" />
+          <img className="logo" src="/src/assets/Logo.png" alt="Logo" />
           <a href="#pages">Pages</a>
           <a href="#shop">Shop</a>
           <a href="#contact">Contact</a>
